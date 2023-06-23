@@ -4,5 +4,4 @@ This is the datasets for our manuscript entitled "An in-situ sea cucumber detect
 
 To download the dataset please access the following link:
 
-https://pan.baidu.com/s/1yxyQZ3_ET48bESoq7yEmVw?pwd=gbg5 
-Password: gbg5
+https://pan.baidu.com/s/1wJUcHYhIZSmZ0JDEUZvJQg?pwd=827g  password: 827g
